@@ -1,11 +1,11 @@
 # CountryCodes
 Android application that allows users to get correct country and exit codes to call abroad.
 
-![alt tag](http://nischaltamang.com/images/CountryCodes1.png)
+<img src="http://nischaltamang.com/images/CountryCodes1.png" width="200">
 
-![alt tag](http://nischaltamang.com/images/CountryCodes2.png)
+<img src="http://nischaltamang.com/images/CountryCodes2.png" width="200">
 
-![alt tag](http://nischaltamang.com/images/CountryCodes3.png)
+<img src="http://nischaltamang.com/images/CountryCodes3.png" width="200">
 
 
 
