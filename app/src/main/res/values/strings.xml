@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Country Codes</string>
+    <string name="app_title">Call International</string>
+    <string name="dial">Dial</string>
+    <string name="copy">Copy</string>
+    <string name="from">From...</string>
+    <string name="to">To...</string>
+    <string name="phone">Phone number...</string>
+    <string name="header_1">Calling from</string>
+    <string name="header_2">Calling to</string>
+    <string name="header_3">Phone number</string>
+</resources>
